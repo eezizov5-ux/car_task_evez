@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Car_Parking.Properties {
+namespace car_task_evez.Properties {
     using System;
     
     
